@@ -1,5 +1,8 @@
 # Ink Collector v2.0 🦑
 
+> **🟢 Live Demo:** [Play Ink Collector](https://ink-collector-classic.vercel.app/)
+> *(Spun up a quick Vercel instance today so you don't have to build it locally. Code is the original MVP from Summer 2025).*
+
 A gamified entry point into the **Ink L2** ecosystem. Ink Collector is an interactive web-based mini-game designed to stress-test frontend blockchain interactions while providing an engaging user experience. 
 
 Initially built as a simple MVP, version 2.0 introduces advanced gameplay mechanics, dynamic scaling, and guest-mode capabilities, setting a baseline for robust Web3 game development on Ink.
